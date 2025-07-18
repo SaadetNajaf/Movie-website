@@ -1,24 +1,28 @@
-# 🎬 Movie Website - Explore Popular Movies & TV Shows
+  
+# 🎬 Movie Website
 
-This project is a movie website clone that lists popular movies and TV shows while providing a user-friendly interface. It is built using HTML and CSS.
+This project is a **movie browsing website** built with **HTML**, **CSS**, and **JavaScript**. Users can explore popular movies, view detailed information, and create a personalized list of their favorite films.
 
-## 🚀 About the Project
+---
 
-In this project, users can browse popular movies and TV series, create their own lists, and filter content by categories. The design is inspired by Netflix, offering a modern and responsive UI.
+## ⚙️ Features
 
-## ⚙️ Features  
+✅ **Home Page**  
+Displays a curated list of popular movies fetched from an API or static data.
 
-✅ **Home Page:** Showcases trending movies and series  
-✅ **Movies & TV Shows:** Categorized listings of films and series  
-✅ **User Profile:** Profile picture and account menu  
-✅ **Dark/Light Mode:** Theme switching  
-✅ **Filtering System:** Categorization by genres   
+✅ **Movie Detail Page**  
+Provides detailed information about a selected movie, such as title, release date, rating, overview, and poster.
+
+✅ **Favorite Movies**  
+Allows users to mark movies as favorites and view them in a dedicated section.
+
+---
 
 ## 🛠 Technologies Used
 
-- **HTML5** - Structure and layout  
-- **CSS3** - Styling and design  
-- **Bootstrap Icons** - Icon set  
+- **HTML5** – for page structure  
+- **CSS3** – for styling and responsive design  
+- **JavaScript** – for interactivity and data handling 
 
 ## 🔍 Preview  
 
