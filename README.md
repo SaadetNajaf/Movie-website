@@ -22,11 +22,15 @@ Allows users to mark movies as favorites and view them in a dedicated section.
 
 - **HTML5** – for page structure  
 - **CSS3** – for styling and responsive design  
-- **JavaScript** – for interactivity and data handling 
+- **JavaScript** – for interactivity and data handling
+
+---
 
 ## 🔍 Preview  
 
 ![Movie Website](movie.gif)  
+
+---
 
 ## 📞 Contact  
 
